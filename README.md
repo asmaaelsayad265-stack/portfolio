@@ -7,7 +7,7 @@
 
 **مطورة ويب وتطبيقات متخصصة بـ 8+ سنوات خبرة**
 
-[📧 البريد الإلكتروني](#-تواصل-معي) • [🔗 LinkedIn](#) • [🌐 الويب سايت](#) • [📱 WhatsApp](#)
+[📧 البريد الإلكتروني](mailto:asmaaelsayad265@gmail.com) • [📱 واتساب](https://wa.me/201146600465) • [👍 فيس بوك](https://www.facebook.com/share/1C2tEw2WCw/) • [📄 صفحة الفيس](https://www.facebook.com/share/1CU2PzFZ1M/)
 
 </div>
 
@@ -187,11 +187,11 @@
 
 | القناة | البيانات |
 |--------|---------|
-| 📧 **البريد الإلكتروني** | [asmaa@example.com](mailto:asmaa@example.com) |
-| 📱 **واتساب** | [+20 XXX XXX XXXX](https://wa.me/20) |
-| 💼 **LinkedIn** | [@أسماء-سالم](https://linkedin.com) |
-| 🌐 **الموقع الشخصي** | [www.asmaa-portfolio.com](https://asmaa-portfolio.com) |
-| 💬 **Telegram** | [@asmaa_dev](https://t.me) |
+| 📧 **البريد الإلكتروني** | [asmaaelsayad265@gmail.com](mailto:asmaaelsayad265@gmail.com) |
+| 📱 **واتساب** | [01146600465](https://wa.me/201146600465?text=السلام%20عليكم%2C%20أنا%20مهتم%20بخدماتك) |
+| 👍 **فيس بوك** | [أسماء سالم احمد](https://www.facebook.com/share/1C2tEw2WCw/) |
+| 📄 **صفحة الفيس** | [صفحة العمل](https://www.facebook.com/share/1CU2PzFZ1M/) |
+| 💼 **GitHub** | [@asmaaelsayad265-stack](https://github.com/asmaaelsayad265-stack) |
 
 </div>
 
@@ -223,13 +223,18 @@
 
 ## 🎉 شكراً لزيارتك!
 
-**هل لديك مشروع تريد تطويره؟**
+**هل لديك مشروع تريدين تطويره؟**
 
-📧 [تواصل معي الآن](#-تواصل-معي) | 🚀 [اعرض المزيد من أعمالي](https://github.com/asmaaelsayad265-stack)
+🚀 تواصلي معي الآن عبر أي من القنوات المتاحة أعلاه
 
 ---
 
+### 🌟 دعونا ننشئ شيء مميز معاً! 🌟
+
 ![Footer](https://img.shields.io/badge/Made%20With-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)
+
 **© 2025 أسماء سالم احمد | جميع الحقوق محفوظة**
+
+*"الجودة والاحترافية في كل مشروع"*
 
 </div>
