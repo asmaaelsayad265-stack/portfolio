@@ -7,6 +7,7 @@
 
 **مطورة ويب وتطبيقات متخصصة بـ 8+ سنوات خبرة**
 
+
 [📧 البريد الإلكتروني](mailto:asmaaelsayad265@gmail.com) • [📱 واتساب](https://wa.me/201146600465) • [👍 فيس بوك](https://www.facebook.com/share/1C2tEw2WCw/) • [📄 صفحة الفيس](https://www.facebook.com/share/1CU2PzFZ1M/)
 
 </div>
